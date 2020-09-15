@@ -1,5 +1,5 @@
 *** Settings ***
-Resource            ../resources/keywords.robot
+Resource            ../QEA_B2B DemoSite/keywords.robot
 Suite Setup         Setup Browser
 Suite Teardown      End suite
 
