@@ -5,7 +5,7 @@ Library                String
 
 *** Variables ***
 ${BROWSER}             chrome
-${Url}           https://dssdemo71031b2x.intershopsandbox.com/INTERSHOP/web/WFS/inSPIRED-inTRONICS_B2B_Demo-Site/en_US/-/USD/ViewUserAccount-ShowLogin
+${Url}           https://dssdemo71031b2x.intershopsandbox.com/INTERSHOP/web/WFS/inSPIRED-QEA_B2B-Site/en_US/-/USD/ViewHomepage-Start
 ${User_id}  qavalidation@mail.com
 ${Pass}  test123
 
