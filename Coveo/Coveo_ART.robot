@@ -1,5 +1,5 @@
 *** Settings ***
-Resource            ../coveo/coveo.keywords.robot
+Resource            ../Coveo/Coveo.keywords.robot
 Suite Setup         Setup Browser
 Suite Teardown      End suite
 *** Test Cases ***
