@@ -10,7 +10,7 @@ Test cases for QuickOrder File Download
     [Tags]  QuickOrder File Download
     Appstate    Login
     QWeb.Click Text  Quick Order
-    UploadFile    Choose File    ../QEA_B2B DemoSite/resources/QuickOrderTemplate-QEA_B2B.xls
+    UploadFile    Choose File    ../QEA_B2B DemoSite/resources/QuickOrderTemplate (1).xlsx
     ClickText    Upload
     ExpectFileDownload
     QWeb.Click Text   Download Bulk Order Form
