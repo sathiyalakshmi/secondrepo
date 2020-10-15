@@ -8,6 +8,7 @@ Suite Teardown      End suite
 Test cases for QuickOrder File Download
     [Documentation]  To verify the QuickOrder File Download
     [Tags]  QuickOrder File Download
+    Appstate    Login
     QWeb.Click Text  Quick Order
     UploadFile    Choose File    ../QEA_B2B DemoSite/resources/QuickOrderTemplate-QEA_B2B.xls
     ClickText    Upload
